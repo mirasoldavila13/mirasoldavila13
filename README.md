@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirasol Davila</h1>
 
-- 🔭 I’m currently working on [mediumclone_nestjs](https://github.com/mirasoldavila13/mediumclone_nestjs)
-
-- 🌱 I’m currently learning **Nest.js,Jira,Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
