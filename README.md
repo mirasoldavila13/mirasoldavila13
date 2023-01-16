@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [property-management](https://github.com/mirasoldavila13/property-management)
 
-- 🌱 I’m currently learning **Samsung AI Course, hands-on experience in AI theory, design, and implementation**
+- 🌱 I’m currently learning **Samsung AI Course**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
