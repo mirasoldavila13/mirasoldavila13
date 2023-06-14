@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirasol Davila</h1>
 
-- 🌱 I’m currently learning **Samsung AI Course**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
